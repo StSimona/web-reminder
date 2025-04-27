@@ -1,0 +1,15 @@
+:root {
+    --primary: #2599eb;
+    --surface: #ffffff;
+    --surface-alt: #f3f4f6;
+    --radius: 12px;
+    --shadow: 0 4px 12px rgb(0 0 0 / 0.08);
+    font-family: system-ui, sans-serif;
+ }
+  
+  body {
+    margin: 0;
+    background: var(--surface-alt);
+    display: flex;
+    justify-content: center;
+  }
